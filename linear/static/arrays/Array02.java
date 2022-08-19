@@ -1,3 +1,5 @@
+// 2D Array
+
 public class Array02 {
     public static int printArr(int[][] arr, int i, int j) {
         if (i >= arr.length)

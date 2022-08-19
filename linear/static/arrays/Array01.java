@@ -1,5 +1,6 @@
-public class Array01 {
+// 1D Array
 
+public class Array01 {
     public static void printArr(int[] arr, int currentIdx) {
         if (currentIdx == arr.length) {
             return;
