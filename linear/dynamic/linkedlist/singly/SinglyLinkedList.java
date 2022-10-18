@@ -67,26 +67,6 @@ public class SinglyLinkedList {
         return temp;
     }
 
-    public Node endDelete() {
-        if (head == null) {
-            System.out.println("List is Empty...");
-            return null;
-        } else {
-            
-        }
-
-        if(head.next == null) {
-            head = null;
-            return null;
-        } else 
-
-        Node ptr = head;
-        while (ptr.next != null) {
-            ptr = ptr.next;
-        }
-        ptr
-    }
-
     public void show() {
         if (head == null) {
             System.out.println("List is Empty...");
