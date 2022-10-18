@@ -1,3 +1,5 @@
+package linear.dynamic.linkedlist.singly;
+
 public class Node {
     int data;
     Node next;

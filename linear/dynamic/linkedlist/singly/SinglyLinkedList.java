@@ -1,3 +1,5 @@
+package linear.dynamic.linkedlist.singly;
+
 public class SinglyLinkedList {
     private Node head;
     private int length;

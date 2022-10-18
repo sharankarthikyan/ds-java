@@ -1,3 +1,5 @@
+package linear.dynamic.linkedlist.singly;
+
 import java.util.Scanner;
 
 public class SinglyLL01 {
