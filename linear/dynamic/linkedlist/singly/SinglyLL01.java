@@ -36,7 +36,6 @@ public class SinglyLL01 {
                     sll.beginDelete();
                     break;
                 case 5:
-                    sll.endDelete();
                     break;
                 case 8:
                     sll.show();
